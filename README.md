@@ -4,7 +4,7 @@
 
 Code, notes, resources, and other fun things for tutoring the ECE 261 course at IUPUI.
 
-The only reason this repo is public is due to the limitations of the **[repl.it](repl.it/~)** site... 
+The only reason this repo is public is due to the limitations of the **[repl.it](repl.it/~)** site... (and by limitations I mean pay-walls  >:( )
 
 Please refer to the IUPUI's guidlines for this course regarding plagiarism and cheating: **You should be writing your own code, except for help provided by the lab instructors, tutors, and instructor. If we discover cheating/plagiarism we reserve the right to assess all possible penalties.**
 
